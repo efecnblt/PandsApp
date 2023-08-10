@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "414386806448",
+    "project_id": "pandagram-e688e",
+    "storage_bucket": "pandagram-e688e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414386806448:android:492bd915d31da4155fa575",
+        "android_client_info": {
+          "package_name": "com.efecnblt.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414386806448-9tkj5jvjbu56v9a69h7fiem73sugsbka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhooYkP5BVc4gJvebFUAQeIF5hGxuL1VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414386806448-9tkj5jvjbu56v9a69h7fiem73sugsbka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414386806448:android:d80fe7d646981bbe5fa575",
+        "android_client_info": {
+          "package_name": "com.efecnblt.pands_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414386806448-9tkj5jvjbu56v9a69h7fiem73sugsbka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhooYkP5BVc4gJvebFUAQeIF5hGxuL1VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414386806448-9tkj5jvjbu56v9a69h7fiem73sugsbka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
